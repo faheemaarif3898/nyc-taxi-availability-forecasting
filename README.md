@@ -115,7 +115,8 @@ This project demonstrates:
 
 ---
 
-## Project Structurenyc-taxi-availability-forecasting/ 
+## Project Structure
+
 nyc-taxi-availability-forecasting/
 │
 ├── src/
